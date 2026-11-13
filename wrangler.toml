@@ -2,3 +2,9 @@ name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2026-11-11"
 keep_vars = true
+# ...
+[vars]
+ALLOWED_DOMAINS = "flamefix-website.pages.dev"
+GITHUB_CLIENT_ID = "Iv23liON2GLfauG1moWY"
+GITHUB_CLIENT_SECRET = "a773fa986e65385f0e69b8c048da4d61649b9ec4"
+# ...
